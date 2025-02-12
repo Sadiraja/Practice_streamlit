@@ -1,9 +1,6 @@
 import numpy as np 
 import streamlit as st
-import matplotlib.pyplot as plt
 import pandas as pd
-import seaborn as sns
-
 
 st.title("Hello World")
 st.header("This is a header with a divider", divider="gray")
